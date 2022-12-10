@@ -1,1 +1,1 @@
-FROM emqx/emqx:4.4.11
+FROM redis:5.0.14

@@ -1,1 +1,1 @@
-FROM portainer-agent
+FROM rancher/portainer-agent
